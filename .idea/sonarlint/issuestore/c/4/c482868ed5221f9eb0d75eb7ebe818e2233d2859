@@ -1,0 +1,20 @@
+
+o
+java:S1104"MMake a a static final constant or non-public and provide accessors if needed.(’¾º÷ıÿÿÿÿ8Î×¾Õİ0
+o
+java:S1104"MMake b a static final constant or non-public and provide accessors if needed.(‡ôÙ¡şÿÿÿÿ8Î×¾Õİ0
+I
+java:S1444"'Make this "public static a" field final(’¾º÷ıÿÿÿÿ8Î×¾Õİ0
+I
+java:S1444"'Make this "public static b" field final(‡ôÙ¡şÿÿÿÿ8Î×¾Õİ0
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¼µ×ì8Š¿Õİ0
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óæ‚‚8İ×¾Õİ0
+L
+java:S1197"*Move the array designators [] to the type.(’¾º÷ıÿÿÿÿ8İ×¾Õİ0
+P
+java:S1197".Move the array designators [][][] to the type.(‡ôÙ¡şÿÿÿÿ8à×¾Õİ0
+U	java:S106#"9Replace this use of System.out or System.err by a logger.(ôËŠ«8à×¾Õİ0
+>
+java:S2386&"Make member "a" "protected".(ÄÏÏØûÿÿÿÿ8à×¾Õİ0
+>
+java:S2386'"Make member "b" "protected".(Óúï•ùÿÿÿÿ8à×¾Õİ0

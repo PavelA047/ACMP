@@ -1,0 +1,11 @@
+
+I
+java:S1121r".Extract the assignment out of this expression.(¡·íºþÿÿÿÿ
+‚
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¥šÔÀ
+P	java:S125"<This block of commented-out lines of code should be removed.( ü·K
+C	java:S108>")Either remove or fill this block of code.(Æ¸Û‚øÿÿÿÿ
+C	java:S108T")Either remove or fill this block of code.(Æ¸Û‚øÿÿÿÿ
+C	java:S108j")Either remove or fill this block of code.(Æ¸Û‚øÿÿÿÿ
+C	java:S108s")Either remove or fill this block of code.(Æ¸Û‚øÿÿÿÿ
