@@ -1,6 +1,0 @@
-
-U
-java:S1854":Remove this useless assignment to local variable "number".(ÎÂîõúÿÿÿÿ
-F
-java:S1481"+Remove this unused "number" local variable.(ÎÂîõúÿÿÿÿ
-N	java:S106""9Replace this use of System.out or System.err by a logger.(‚¨Ö§

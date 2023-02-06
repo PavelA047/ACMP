@@ -1,6 +1,0 @@
-
-U	java:S106"9Replace this use of System.out or System.err by a logger.(ôËŠ«8Åé™µÛ0
-c
-java:S5361"HReplace this call to "replaceAll()" by a call to the "replace()" method.(‚ñÄÿûÿÿÿÿ
-G
-java:S1602",Remove useless curly braces around statement(ñÔÒûúÿÿÿÿ

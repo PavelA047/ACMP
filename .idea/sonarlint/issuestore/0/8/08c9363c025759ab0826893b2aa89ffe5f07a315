@@ -1,6 +1,0 @@
-
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ºËÚ»ûÿÿÿÿ
-L
-java:S1854"6Remove this useless assignment to local variable "y1".(¬Ýš´
-=
-java:S1481"'Remove this unused "y1" local variable.(¬Ýš´
