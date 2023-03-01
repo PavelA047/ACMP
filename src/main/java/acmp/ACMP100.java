@@ -41,4 +41,6 @@ public class ACMP100 {
         return retVal.toString();
     }
 
+    //http://www.ega-math.narod.ru/Quant/Tickets.htm
+
 }
